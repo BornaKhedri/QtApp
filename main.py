@@ -1,12 +1,4 @@
-from qtTest import *
 from appui import *
-
-# def main():
-#     app = QApplication(sys.argv)
-#     win = MyWindow()
-#     win.show()
-#     sys.exit(app.exec_())
-
 
 def main():
     import sys
